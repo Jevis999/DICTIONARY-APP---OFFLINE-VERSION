@@ -1,1 +1,1 @@
-# DICTIONARY-APP---OFFLINE-VERSION
+# DictionaryApp-Offline
